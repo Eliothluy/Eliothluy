@@ -19,7 +19,12 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&langs_count=7&theme=dracula)](https://github.com/Eliothluy)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliothluy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Eliothluy)
+<p align="center">
+  <a href="https://github.com/Eliothluy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&langs_count=7&theme=dracula&cache_seconds=21600" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliothluy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=21600" />
+  </a>
+</p>
+
 
 
