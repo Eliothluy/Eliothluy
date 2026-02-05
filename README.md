@@ -19,12 +19,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-<p align="center">
-  <a href="https://github.com/Eliothluy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&langs_count=7&theme=dracula&cache_seconds=21600" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliothluy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=21600" />
-  </a>
-</p>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&theme=dracula)
 
 
 
