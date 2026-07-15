@@ -21,7 +21,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&langs_count=6&hide=html,css)
 
 
 
