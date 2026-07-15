@@ -41,9 +41,9 @@ Sou pesquisador na área de redes de computadores, com foco em **5G, Open RAN e 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliothluy&layout=compact&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eliothluy&theme=github)
 
 ---
 
