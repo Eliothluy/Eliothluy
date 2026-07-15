@@ -15,7 +15,7 @@ Sou pesquisador na área de redes de computadores, com foco em **5G, Open RAN e 
 * 👯 Procurando colaborar em projetos de **Open RAN, NS-3 e redes inteligentes**
 * 🤔 Buscando evoluir em **DRL aplicado a redes e otimização de recursos**
 * 💬 Pode me perguntar sobre **redes, simulação, NS-3 e O-RAN**
-* 📫 Contato: *adicione aqui seu e-mail ou LinkedIn*
+* 📫 Contato: *elioth.silva@itec.ufpa.br*
 * ⚡ Curiosidade: apaixonado por tecnologia, pesquisa e sistemas complexos
 
 ---
